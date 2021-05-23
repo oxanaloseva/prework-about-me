@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>About Me</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <header class='masthead'>
+        <p class='masthead-intro'>Hi I'm</p>
+        <h1 class='masthead-heading'>Oxana Loseva</h1>
+    </header>
+    <section class="details">
+      <h1>Introduction</h1>
+      <p>Hello, I'm a Sr. UX Researcher at Vanguard responsible for accessible and inclusive design. I started my own accessibility panel and I frequently test with people with disabilities such as Down Syndrome. I love working with people and I want to learn how to code to be better at accessibility. </p>
+      <h1>Where I'm From</h1>
+      <p>Vokuta, Russia</p>
+      <h1>What are your favorite hobbies?</h1>
+      <p>Yoga, drawing, watching films, hanging out with my dog, and going to museums.</p>
+      <h1>What's your dream job?</h1>
+      <p>Web developer with a focus on accessibility</p>
+      <h1>Where do you live?</h1>
+      <p>Philadelphia, PA</p>
+      <h1>Why do you want to be a web developer?</h1>
+      <p>To learn how to build digital experiences and make them accessible and inclusive</p>
+    </section>
+
+    <footer id="footer">
+        <ul class="social">
+          <li><a href="http://www.github.com/usernamehere">Github</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
